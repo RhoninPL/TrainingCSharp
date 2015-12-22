@@ -1,0 +1,2 @@
+# TrainingCSharp
+Just learn
