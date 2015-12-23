@@ -1,9 +1,0 @@
-C:\Users\michal\Documents\Moje\Training\TrainingTests\bin\Debug\TrainingTests.dll
-C:\Users\michal\Documents\Moje\Training\TrainingTests\bin\Debug\TrainingTests.pdb
-C:\Users\michal\Documents\Moje\Training\TrainingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\michal\Documents\Moje\Training\TrainingTests\bin\Debug\Training.dll
-C:\Users\michal\Documents\Moje\Training\TrainingTests\bin\Debug\Training.pdb
-C:\Users\michal\Documents\Moje\Training\TrainingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\Users\michal\Documents\Moje\Training\TrainingTests\obj\Debug\TrainingTests.csprojResolveAssemblyReference.cache
-C:\Users\michal\Documents\Moje\Training\TrainingTests\obj\Debug\TrainingTests.dll
-C:\Users\michal\Documents\Moje\Training\TrainingTests\obj\Debug\TrainingTests.pdb
