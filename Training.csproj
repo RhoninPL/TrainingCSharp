@@ -41,6 +41,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlTestConnection.cs" />
+    <Compile Include="XML\Entities\Car.cs" />
+    <Compile Include="XML\Entities\Colour.cs" />
+    <Compile Include="XML\Entities\Engine.cs" />
+    <Compile Include="XML\Entities\Garage.cs" />
+    <Compile Include="XML\XmlParser.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="XML\XMLFiles\garage.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
