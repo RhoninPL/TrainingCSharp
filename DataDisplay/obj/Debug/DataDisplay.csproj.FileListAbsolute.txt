@@ -1,0 +1,17 @@
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\bin\Debug\DataDisplay.exe.config
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay.csprojResolveAssemblyReference.cache
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\App.g.cs
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay_MarkupCompile.cache
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay_MarkupCompile.lref
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\MainWindow.baml
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay.g.resources
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay.exe
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\obj\Debug\DataDisplay.pdb
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\bin\Debug\Training.dll
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\bin\Debug\MySql.Data.dll
+C:\Users\michal\Documents\TrainingCSharp\DataDisplay\bin\Debug\Training.pdb
