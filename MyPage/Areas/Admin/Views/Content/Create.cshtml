@@ -1,0 +1,8 @@
+﻿@model MyPage.Models.ContentModels
+@{
+    ViewBag.Title = "Create new content";
+    Layout = "~/Areas/Admin/Views/Content/ContentLayout.cshtml";
+}
+
+<h2>Create</h2>
+@Html.Partial("_contentForm",Model)

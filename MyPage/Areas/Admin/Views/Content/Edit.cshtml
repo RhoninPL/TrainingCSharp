@@ -1,0 +1,8 @@
+﻿@model MyPage.Models.ContentModels
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Content/ContentLayout.cshtml";
+}
+
+<h2>Edit</h2>
+@Html.Partial("_contentForm", Model)
