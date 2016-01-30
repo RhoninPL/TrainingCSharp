@@ -1,12 +1,13 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using System.Web.Mvc;
+using System.Data.Entity;
 
 namespace MyPage.Models
 {
-    public class ContentModels
+    public class ContentModels : DbContext
     {
         public int Id { get; set; }
+
         [Required]
         public string Content { get; set; }
         
