@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlTestConnection.cs" />
+    <Compile Include="Statement.cs" />
     <Compile Include="XML\Entities\Car.cs" />
     <Compile Include="XML\Entities\Colour.cs" />
     <Compile Include="XML\Entities\Engine.cs" />
