@@ -80,3 +80,4 @@ C:\Users\michal\Documents\TrainingCSharp\MyPage\bin\Microsoft.Owin.Security.Micr
 C:\Users\michal\Documents\TrainingCSharp\MyPage\obj\Debug\MyPage.dll
 C:\Users\michal\Documents\TrainingCSharp\MyPage\obj\Debug\MyPage.pdb
 C:\Users\michal\Documents\TrainingCSharp\MyPage\bin\MySql.Data.dll
+C:\Users\michal\Documents\TrainingCSharp\MyPage\obj\Debug\MyPage.csprojResolveAssemblyReference.cache
