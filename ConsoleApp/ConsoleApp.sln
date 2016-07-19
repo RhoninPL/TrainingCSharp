@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONShopping", "Console.JSONShopping\JSONShopping.csproj", "{9B63A2AB-CDBE-4844-AFCB-CF3F43B0F8DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsAs", "IsAs\IsAs.csproj", "{15E422B0-CACE-43FF-8E04-59308BF49311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B63A2AB-CDBE-4844-AFCB-CF3F43B0F8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B63A2AB-CDBE-4844-AFCB-CF3F43B0F8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B63A2AB-CDBE-4844-AFCB-CF3F43B0F8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E422B0-CACE-43FF-8E04-59308BF49311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E422B0-CACE-43FF-8E04-59308BF49311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E422B0-CACE-43FF-8E04-59308BF49311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E422B0-CACE-43FF-8E04-59308BF49311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
