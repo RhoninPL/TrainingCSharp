@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+TrainingCSharp/DataDisplay/obj/
+TrainingCSharp/DataDisplay/obj
